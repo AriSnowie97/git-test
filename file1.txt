@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "?­è? §¬?­¨ ã file1.txt ã £?«æ? main" 
+=======
+"‡¬?­¨ ã file1.txt ã £?«æ? feature-branch2" 
+>>>>>>> feature-branch2
